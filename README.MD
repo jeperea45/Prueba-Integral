@@ -22,10 +22,10 @@
 El proyecto se divide en dos partes. Sigue las instrucciones específicas en cada módulo:
 
 - **Backend:**
-  Consulta la [documentación del backend](./backend/README.md) para conocer los pasos de instalación, configuración y despliegue del servidor.
+  Consulta la [documentación del backend](./backend/README.MD) para conocer los pasos de instalación, configuración y despliegue del servidor.
 
 - **Frontend:**
-  Consulta la [documentación del frontend](./frontend/README.md) para instalar, configurar y ejecutar la aplicación del lado del cliente.
+  Consulta la [documentación del frontend](./frontend/README.MD) para instalar, configurar y ejecutar la aplicación del lado del cliente.
 
 ## Flujo General
 
